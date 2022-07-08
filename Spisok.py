@@ -1,4 +1,4 @@
-'''a=['это строка',
+a=['это строка',
    'http://funny.ru']
 for x in a:
     if(x[0:3] == 'wwww','http'):
